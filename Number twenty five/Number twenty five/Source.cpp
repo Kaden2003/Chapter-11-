@@ -16,7 +16,7 @@ int main()
 		if (monthNumber > 0 && monthNumber < 13)
 			cout << "Number of days: " << days[monthNumber - 1] << endl;
 		else
-			cout << "Invalid month number" << endl << endl;
+			cout << "INVALID NUMBER" << endl << endl;
 		//end if
 		cout << "Enter the month number (-1 to stop): ";
 		cin >> monthNumber;

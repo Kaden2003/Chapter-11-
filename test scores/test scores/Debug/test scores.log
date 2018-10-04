@@ -1,5 +1,5 @@
 ﻿  Source.cpp
-c:\users\kg154824\source\repos\test scores\test scores\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
-c:\users\kg154824\source\repos\test scores\test scores\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
-c:\users\kg154824\source\repos\test scores\test scores\source.cpp(19): warning C4101: 'testScore': unreferenced local variable
-  test scores.vcxproj -> C:\Users\kg154824\source\repos\test scores\Debug\test scores.exe
+c:\users\kg154824\desktop\chapter-11-\test scores\test scores\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\kg154824\desktop\chapter-11-\test scores\test scores\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\kg154824\desktop\chapter-11-\test scores\test scores\source.cpp(19): warning C4101: 'testScore': unreferenced local variable
+  test scores.vcxproj -> C:\Users\kg154824\Desktop\Chapter-11-\test scores\Debug\test scores.exe
