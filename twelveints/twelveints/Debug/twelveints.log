@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kg154824\source\repos\twelveints\twelveints\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\kg154824\source\repos\twelveints\twelveints\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\kg154824\source\repos\twelveints\twelveints\source.cpp(10): warning C4101: 'z': unreferenced local variable
+  twelveints.vcxproj -> C:\Users\kg154824\source\repos\twelveints\Debug\twelveints.exe
